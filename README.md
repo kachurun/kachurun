@@ -2,9 +2,7 @@
 
 # Max Kachurin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=440&lines=Builder+%7C+Product-minded+Engineer;Visual+editors+%7C+AI+agents;Shipping+tools+that+people+actually+use" alt="Typing SVG" />
-
-**Co-founder & CTO at [Reforma](https://reforma.ai) · CTO at [Flexbe](https://flexbe.com)**
+**Co-founder of [Reforma](https://reforma.ai) · CTO at [Flexbe](https://flexbe.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kachurun/)
 [![Reforma](https://img.shields.io/badge/Reforma.ai-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://reforma.ai)
@@ -14,9 +12,9 @@
 
 I build visual editors, developer tools, and AI agents. 
 
-At **Reforma**, I’m building an AI-native platform for creating web applications with a visual editor and coding agents. My work spans product architecture, editor design, and agent infrastructure.
+At **[Reforma](https://reforma.ai)**, I’m building an AI-native platform for creating web applications with a visual editor and coding agents. My work spans product architecture, editor design, and agent infrastructure.
 
-At **Flexbe**, I lead the engineering team behind a visual website builder we’ve grown from idea to product. I care about giving engineers enough context and autonomy to make good decisions.
+At **[Flexbe](https://flexbe.com)**, I lead the engineering team behind a visual website builder we’ve grown from idea to product. I care about giving engineers enough context and autonomy to make good decisions.
 
 ---
 
@@ -53,7 +51,4 @@ At **Flexbe**, I lead the engineering team behind a visual website builder we’
 - Strong product thinking, not just clever code
 - Giving engineers the context to make good decisions
 - Shipping software that cuts through complexity
-
----
-
-[LinkedIn](https://www.linkedin.com/in/kachurun/) · [Email](mailto:kachurun@gmail.com)
+  

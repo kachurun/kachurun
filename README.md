@@ -19,13 +19,50 @@ I build software with product sense, technical depth, and a bias for shipping. I
 
 ---
 
-## Featured project
+## Featured projects
 
-### Reforma.ai
-A product-focused platform designed to help turn complex workflows into accessible, efficient, and polished digital experiences.
-
-- Website: [reforma.ai](https://reforma.ai)
-- Focus: product design, software execution, and practical problem solving
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/reforma-ai/briefback">
+        <img src="https://img.shields.io/badge/Briefback-111827?style=for-the-badge&logo=github&logoColor=white" alt="Briefback" />
+      </a>
+      <br />
+      <strong>Briefback</strong>
+      <br />
+      A coding-agent workflow with Grill at its core: challenge assumptions and settle decisions before coding. Lightweight spec-driven development with planning, TDD, review, and handoff for coding agents.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/reforma-ai/prosecraft">
+        <img src="https://img.shields.io/badge/Prosecraft-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prosecraft" />
+      </a>
+      <br />
+      <strong>Prosecraft</strong>
+      <br />
+      A collection of skills that help AI agents write, edit, structure, and humanize text. Built for better language quality and more useful AI-assisted writing workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/solidjs-community/storybook">
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+      </a>
+      <br />
+      <strong>Solid Storybook</strong>
+      <br />
+      Solid-specific implementation for Storybook. A developer-focused integration that makes component development, testing, and documentation smoother in the SolidJS ecosystem.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/riot/riot">
+        <img src="https://img.shields.io/badge/Riot-FF4D4D?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot" />
+      </a>
+      <br />
+      <strong>Riot</strong>
+      <br />
+      Simple and elegant component-based UI library. focused on lightweight, expressive building blocks and a minimal mental model for front-end composition.
+    </td>
+  </tr>
+</table>
 
 ---
 
